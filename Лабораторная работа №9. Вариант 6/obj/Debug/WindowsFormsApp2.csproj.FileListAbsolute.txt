@@ -1,0 +1,11 @@
+G:\Лабораторная работа №9\bin\Debug\WindowsFormsApp2.exe.config
+G:\Лабораторная работа №9\bin\Debug\WindowsFormsApp2.exe
+G:\Лабораторная работа №9\bin\Debug\WindowsFormsApp2.pdb
+G:\Лабораторная работа №9\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+G:\Лабораторная работа №9\obj\Debug\WindowsFormsApp2.Form1.resources
+G:\Лабораторная работа №9\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+G:\Лабораторная работа №9\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+G:\Лабораторная работа №9\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+G:\Лабораторная работа №9\obj\Debug\WindowsFormsApp2.exe
+G:\Лабораторная работа №9\obj\Debug\WindowsFormsApp2.pdb
+G:\Лабораторная работа №9\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
